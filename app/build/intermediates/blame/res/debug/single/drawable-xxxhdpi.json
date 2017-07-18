@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_done.png",
+        "source": "D:\\Animals\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "F:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_done.png",
+        "source": "F:\\Animals\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "F:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_pet.png",
+        "source": "F:\\Animals\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_pet.png"
+    },
+    {
+        "merged": "D:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_pet.png",
+        "source": "D:\\Animals\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_pet.png"
+    },
+    {
+        "merged": "D:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_empty_shelter.png",
+        "source": "D:\\Animals\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_empty_shelter.png"
+    },
+    {
+        "merged": "F:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_empty_shelter.png",
+        "source": "F:\\Animals\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_empty_shelter.png"
+    }
+]

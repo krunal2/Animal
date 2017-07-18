@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_editor.xml",
+        "source": "D:\\Animals\\app\\src\\main\\res\\menu\\menu_editor.xml"
+    },
+    {
+        "merged": "F:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_catalog.xml",
+        "source": "F:\\Animals\\app\\src\\main\\res\\menu\\menu_catalog.xml"
+    },
+    {
+        "merged": "F:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_editor.xml",
+        "source": "F:\\Animals\\app\\src\\main\\res\\menu\\menu_editor.xml"
+    },
+    {
+        "merged": "D:\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_catalog.xml",
+        "source": "D:\\Animals\\app\\src\\main\\res\\menu\\menu_catalog.xml"
+    }
+]

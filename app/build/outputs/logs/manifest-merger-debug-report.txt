@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\acer\.android\build-cache\ed266d8df66fa647f2eb7e42b1c7082174d9ed4b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\18a345c1a75509679ab603f460fbc5bcae09a562\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\acer\.android\build-cache\47e5cadeb55f4ab2a55ae42db53e49cccb28a21c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\7bd8749733bafaa54647e6eb6ace1caa09cb34fa\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\efeb5c6b93f5d3f498581f7c0a5476042f8fb854\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\acer\.android\build-cache\33e6e76cc3764ea52af8af64e2f684c063351e58\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\acer\.android\build-cache\364e2c3d30e1f2dbc535a144360df6deeb8a2c3d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\acer\.android\build-cache\0e14d481c976bbc80ab2720c0da7154ed5b4c1d4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\acer\.android\build-cache\8b10e472db9706a67db6a6c10af5ec386314e24b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\acer\.android\build-cache\86aa54c3a8df2faf700ba5013d1f0958472d53f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\acer\.android\build-cache\7dbafb8ed6fad82d0a4e6ac77500c75f2ec643d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\acer\.android\build-cache\4db70b9c6415a25a90f10ce62ba8c3cded194224\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:6:9-41
+	android:supportsRtl
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.acer.animals.CatalogActivity
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:12:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.acer.animals.EditorActivty
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:parentActivityName
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:22:13-58
+	android:theme
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:20:19-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:24:13-26:52
+	android:value
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:26:17-49
+	android:name
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:25:17-63
+provider#com.example.acer.animals.data.PetProvider
+ADDED from D:\Animals\app\src\main\AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:31:13-59
+	android:exported
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from D:\Animals\app\src\main\AndroidManifest.xml:30:13-45
+uses-sdk
+INJECTED from D:\Animals\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\acer\.android\build-cache\ed266d8df66fa647f2eb7e42b1c7082174d9ed4b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\18a345c1a75509679ab603f460fbc5bcae09a562\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\acer\.android\build-cache\47e5cadeb55f4ab2a55ae42db53e49cccb28a21c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\7bd8749733bafaa54647e6eb6ace1caa09cb34fa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\efeb5c6b93f5d3f498581f7c0a5476042f8fb854\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\acer\.android\build-cache\c8469505c42c6f6923431f4d402a19eaeb1fefe6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\acer\.android\build-cache\33e6e76cc3764ea52af8af64e2f684c063351e58\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\acer\.android\build-cache\364e2c3d30e1f2dbc535a144360df6deeb8a2c3d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\acer\.android\build-cache\0e14d481c976bbc80ab2720c0da7154ed5b4c1d4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\acer\.android\build-cache\8b10e472db9706a67db6a6c10af5ec386314e24b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\acer\.android\build-cache\86aa54c3a8df2faf700ba5013d1f0958472d53f6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\acer\.android\build-cache\7dbafb8ed6fad82d0a4e6ac77500c75f2ec643d5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\acer\.android\build-cache\4db70b9c6415a25a90f10ce62ba8c3cded194224\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\18a345c1a75509679ab603f460fbc5bcae09a562\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Animals\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\18a345c1a75509679ab603f460fbc5bcae09a562\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\acer\.android\build-cache\47e5cadeb55f4ab2a55ae42db53e49cccb28a21c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\7bd8749733bafaa54647e6eb6ace1caa09cb34fa\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\acer\.android\build-cache\efeb5c6b93f5d3f498581f7c0a5476042f8fb854\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\acer\.android\build-cache\c8469505c42c6f6923431f4d402a19eaeb1fefe6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\acer\.android\build-cache\33e6e76cc3764ea52af8af64e2f684c063351e58\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\acer\.android\build-cache\364e2c3d30e1f2dbc535a144360df6deeb8a2c3d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\acer\.android\build-cache\0e14d481c976bbc80ab2720c0da7154ed5b4c1d4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\acer\.android\build-cache\8b10e472db9706a67db6a6c10af5ec386314e24b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\acer\.android\build-cache\86aa54c3a8df2faf700ba5013d1f0958472d53f6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\acer\.android\build-cache\7dbafb8ed6fad82d0a4e6ac77500c75f2ec643d5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\acer\.android\build-cache\4db70b9c6415a25a90f10ce62ba8c3cded194224\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\18a345c1a75509679ab603f460fbc5bcae09a562\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\acer\.android\build-cache\18a345c1a75509679ab603f460fbc5bcae09a562\output\AndroidManifest.xml:26:9-47
